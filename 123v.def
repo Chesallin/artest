@@ -1,0 +1,25 @@
+char-set: UTF-8
+#
+#  File exported Tue Jul 31 11:15:57 2012
+#
+begin container
+   name           : ADD:SHR-NotifySetupGroup
+   type           : 4
+   num-references : 2
+   timestamp      : 1229590041
+   owner          : Demo
+   owning-obj     : 6\2\12\HPD:HelpDesk\2\21\ADD:GI:GlobalIncident\2\13\ADD:ORD:Order\2\15\ADD:PBM:Problem\2\10\CHG:Change\2\8\CHG:Task\
+   last-changed   : Demo
+   export-version : 11
+   object-prop    : 5\60006\4\0\\60008\40\0\60009\4\0\\60010\4\0\\60020\4\0\\
+reference {
+   type           : 3
+   datatype       : 0
+   object         : ADD:SHR-NotifySetup1:Group0
+}
+reference {
+   type           : 3
+   datatype       : 0
+   object         : ADD:SHR-NotifySetup1:Group1
+}
+end
