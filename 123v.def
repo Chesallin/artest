@@ -3,7 +3,7 @@ char-set: UTF-8
 #  File exported Tue Jul 31 11:15:57 2012
 #
 begin container
-   name           : ADD:SHR-NotifySetupGroup
+   name           : ADD:SHR-NotifySehrthtrtupGroup
    type           : 4
    num-references : 2
    timestamp      : 1229590041
